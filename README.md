@@ -1,5 +1,5 @@
 <h1 align="start">Hi 👋, I'm Jovit S. Castillo</h1>
-<h3 align="start">Aspiring Web Developer</h3>
+<h3 align="start">Software Developer</h3>
 
 - 📫 How to reach me **jovitsuarezcastillo@gmail.com**
 
